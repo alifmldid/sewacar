@@ -15,7 +15,6 @@ SewaCar is my website that made for my final project in high school. This websit
 ![Screenshot](https://drive.google.com/uc?export=view&id=1344N7jltcpmFLLCk_niHosxQLOitTrkY)
 ![Screenshot](https://drive.google.com/uc?export=view&id=1trHMeFRwaDkdupLq_4EpoeT8HR4FhWQ4)
 ![Screenshot](https://drive.google.com/uc?export=view&id=17DYphjIQg0L6dP30c98Z48SxGICCZTbx)
-![Screenshot](https://drive.google.com/uc?export=view&id=1_zoiCPdnpHlah9xe6HgHrxE_N0PbG_RI)
 
-Presentation document can be seen in https://drive.google.com/file/d/10z9F2UXWifvY5lGziwjRVEgkPX_sDGSq/view?usp=sharing
+Presentation document can be seen in https://drive.google.com/file/d/10z9F2UXWifvY5lGziwjRVEgkPX_sDGSq/view?usp=sharing <br/>
 The documentation or user guide can be seen in https://drive.google.com/file/d/1jL2WFRzRCQ2029xdy-_Wp2Sztr78y58M/view?usp=sharing  
